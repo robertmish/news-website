@@ -1,0 +1,11 @@
+body {
+
+
+}
+.star_wrapper {
+
+    display: flex;
+    width: 300px;
+}
+.star {height: 50px;-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);background: linear-gradient(45deg, #ffb40d, #ffef06);width: 50px;}
+.grey {background: linear-gradient(45deg, #d0cdc7, #b5b5ab);}
